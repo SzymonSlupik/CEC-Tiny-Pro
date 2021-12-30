@@ -21,4 +21,5 @@ The highlight of this CEC implementation is the CEC line (pin 13 on a HDMI port)
 Below are photos of an example setup. I've taken the [Beetle board](https://www.dfrobot.com/product-1075.html), which is one of the smallest fully-featured Arduino and glued it on top of a [Male-Female HDMI "IR extender"](https://www.aliexpress.com/i/32852599971.html), which offers an easy access to both CEC and +5V lines (if using this one, remember to bridge the CEC line from one side to the other, as it is originally cut by a switch).
 
 
-![alt text](https://github.com/SzymonSlupik/CEC-Tiny/blob/main/HDMI-to-RF%20with%20Chromecast.JPG?raw=true "HDMI-to-RF with Chromecast")
+![alt text](https://github.com/SzymonSlupik/CEC-Tiny-Pro/blob/main/Beetle%20Leonardo%20on%20HDMI.JPG?raw=true "Adding a USB sniffer to HDMI")
+![alt text](https://github.com/SzymonSlupik/CEC-Tiny-Pro/blob/main/HDMI%20Pass-Through%20with%20a%20Sniffer.JPG?raw=true "Adding a USB sniffer to HDMI")
