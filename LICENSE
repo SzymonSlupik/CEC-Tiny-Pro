@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2021 SzymonSlupik
+Copyright for portions of project avr-hdmi-cec-volume are held by Thomas Sowell,
+2020 as part of project CEC-Tiny-Pro. All other copyright for project CEC-Tiny
+are held by Szymon Slupik, 2021.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
