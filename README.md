@@ -23,3 +23,4 @@ Below are photos of an example setup. I've taken the [Beetle board](https://www.
 
 ![alt text](https://github.com/SzymonSlupik/CEC-Tiny-Pro/blob/main/Beetle%20Leonardo%20on%20HDMI.JPG?raw=true "Adding a USB sniffer to HDMI")
 ![alt text](https://github.com/SzymonSlupik/CEC-Tiny-Pro/blob/main/HDMI%20Pass-Through%20with%20a%20Sniffer.JPG?raw=true "Adding a USB sniffer to HDMI")
+![alt text](https://github.com/SzymonSlupik/CEC-Tiny-Pro/blob/main/HDMI%20CEC%20Sniffer%20Console.png?raw=true "HDMI CEC Sniffer console")
